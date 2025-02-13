@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd.">
+		<channel>
+			<title>That's A Podcast</title>
+			<link>https://metasophiea.com/</link>
+			<description>A description about the podcast</description>
+			<ttl>1</ttl>
+			<language>en-ie</language>
+			<image>
+				<url>https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg</url>
+				<title>That's A Podcast</title>
+				<link>https://metasophiea.com/</link>
+			</image>
+
+			<itunes:category text="Comedy">
+				<itunes:category text="Improv"/>
+			</itunes:category>
+			<itunes:category text="Society &amp; Culture">
+				<itunes:category text="Relationships" />
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg"/>
+			
+			<item>
+				<title>The First One</title>
+				<link>https://metasophiea.com/</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/1.mp3" length="47446895" type="audio/mpeg" />
+				<description>This is a description of the first episode.</description>
+				<pubDate>Thu, 13 Feb 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/1.mp3</guid>
+
+				<itunes:title>The First One</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>1</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg"/>
+				<itunes:duration>00:19:29</itunes:duration>
+			</item>
+
+		</channel>
+	</rss>
