@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 	<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd.">
 		<channel>
-			<title>That's A Podcast</title>
+			<title>Now That You Mention It</title>
 			<link>https://archive.org/details/1_20250213_20250213_1317</link>
 			<description>Three friends try to figure out podcasting.</description>
 			<ttl>1800</ttl>
 			<language>en-ie</language>
 			<image>
-				<url>https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg</url>
-				<title>That's A Podcast</title>
+				<url>https://archive.org/download/1_20250213_20250213_1317/main.png</url>
+				<title>Now That You Mention It</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
 			</image>
 
@@ -19,8 +19,24 @@
 				<itunes:category text="Relationships" />
 			</itunes:category>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg"/>
+			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
+			<item>
+				<title>Non-Romantic Friends</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/3.mp3" length="143472256" type="audio/mpeg" />
+				<description>After delivering Brandon a milkshake; the group discuss their military positions, dating games, boring hobbies and making great friends.</description>
+				<pubDate>Thu, 27 Feb 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/3.mp3</guid>
+
+				<itunes:title>Non-Romantic Friends</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>3</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/3.jpg"/>
+				<itunes:duration>00:59:47</itunes:duration>
+			</item>
+
 			<item>
 				<title>Finding That Balance</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
@@ -29,27 +45,27 @@
 				<pubDate>Thu, 16 Feb 2025 10:00:00 GMT</pubDate>
 				<guid>https://archive.org/download/1_20250213_20250213_1317/Episode%202.mp3</guid>
 
-				<itunes:title>Finding That Balance One</itunes:title>
+				<itunes:title>Finding That Balance</itunes:title>
 				<itunes:season>1</itunes:season>
 				<itunes:episode>2</itunes:episode>
 				<itunes:episodeType>full</itunes:episodeType>
-				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg"/>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/2.jpeg"/>
 				<itunes:duration>00:46:31</itunes:duration>
 			</item>
 
 			<item>
-				<title>The First One</title>
+				<title>That's A Podcast</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
 				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/1.mp3" length="47446895" type="audio/mpeg" />
 				<description>The gang try to get comfortable with talking into microphones.</description>
 				<pubDate>Thu, 13 Feb 2025 10:00:00 GMT</pubDate>
 				<guid>https://archive.org/download/1_20250213_20250213_1317/1.mp3</guid>
 
-				<itunes:title>The First One</itunes:title>
+				<itunes:title>That's A Podcast</itunes:title>
 				<itunes:season>1</itunes:season>
 				<itunes:episode>1</itunes:episode>
 				<itunes:episodeType>full</itunes:episodeType>
-				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main_image.jpeg"/>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/1.jpeg"/>
 				<itunes:duration>00:19:29</itunes:duration>
 			</item>
 
