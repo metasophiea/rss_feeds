@@ -24,6 +24,22 @@
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
 			<item>
+				<title>Podcast For James</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/4.mp3" length="151168351" type="audio/mpeg" />
+				<description>The gang are down a member today, nevertheless Lisa and Brandon persist, discussing the patriarchy, bed maintenance, things James would want to talk about, Lisa shows us her surround-sound capabilities, and the pair attempt to gather some content from a mysterious book.</description>
+				<pubDate>Fri, 21 Mar 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/4.mp3</guid>
+
+				<itunes:title>Podcast For James</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>4</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/4.jpg"/>
+				<itunes:duration>01:00:42</itunes:duration>
+			</item>
+
+			<item>
 				<title>Non-Romantic Friends</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
 				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/3.mp3" length="143472256" type="audio/mpeg" />
@@ -42,10 +58,10 @@
 			<item>
 				<title>Finding That Balance</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
-				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/Episode%202.mp3" length="112326575" type="audio/mpeg" />
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/2.mp3" length="112326575" type="audio/mpeg" />
 				<description>The trio talk about ideas for a potential future podcast.</description>
 				<pubDate>Sun, 16 Feb 2025 10:00:00 GMT</pubDate>
-				<guid>https://archive.org/download/1_20250213_20250213_1317/Episode%202.mp3</guid>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/2.mp3</guid>
 
 				<itunes:title>Finding That Balance</itunes:title>
 				<itunes:season>1</itunes:season>
