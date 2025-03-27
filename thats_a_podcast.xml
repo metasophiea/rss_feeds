@@ -23,6 +23,23 @@
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
+
+			<item>
+				<title>Pistachio Pot</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/5.mp3" length="183300541" type="audio/mpeg" />
+				<description>Following his return to the podcast, James brings us a challenging story about unwanted additions to his food, the gang discuss flirting with an executioner, pop star names, new uses for a paint shaker, Lisa's competitive side, Brandon's idea for a new kind of boardgame and finally a nice mystery about a very weird looking dog... or was it a rabbit?</description>
+				<pubDate>Fri, 28 Mar 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/5.mp3</guid>
+
+				<itunes:title>Pistachio Pot</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>5</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/5.jpg"/>
+				<itunes:duration>01:13:32</itunes:duration>
+			</item>
+
 			<item>
 				<title>Podcast For James</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
