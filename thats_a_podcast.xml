@@ -20,10 +20,12 @@
 			<itunes:category text="Society &amp; Culture">
 				<itunes:category text="Relationships" />
 			</itunes:category>
+			<itunes:owner>
+				<itunes:email>podcast_rss@metasophiea.com</itunes:email>
+			</itunes:owner>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
-
 			<item>
 				<title>Pistachio Pot</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
