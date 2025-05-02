@@ -27,6 +27,22 @@
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
 			<item>
+				<title>It's A Numbers Thing</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/6.mp3" length="160965654" type="audio/mpeg" />
+				<description>They've searched high and low but were unable to find James anywhere today, so Brandon and Lisa have decided to go it on their own. But you're never truly alone when you get to discuss topics like soup preferences, fish eyes, Lisa’s name-job connections, theme parks, roller coasters, meeting people, self-awareness, when Brandon met Lisa, Lisa’s birthday game and lonely socks.&lt;br&gt;&lt;br&gt;Lisa brings some important questions, asking Brandon about running your life on math, the 7 deadly sins, being organised and optimising life. The pair try to find themselves in fictional characters, discover its actually still 2021 and finally finish off by evoking the power of cartoon theme tunes.</description>
+				<pubDate>Fri, 2 May 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/6.mp3</guid>
+
+				<itunes:title>It's A Numbers Thing</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>6</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/6.jpg"/>
+				<itunes:duration>01:04:56</itunes:duration>
+			</item>
+
+			<item>
 				<title>Pistachio Pot</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
 				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/5.mp3" length="183300541" type="audio/mpeg" />
