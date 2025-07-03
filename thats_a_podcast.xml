@@ -27,6 +27,22 @@
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
 			
 			<item>
+				<title>Slap That Custard</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/7.mp3" length="195933932" type="audio/mpeg" />
+				<description>After a summer hiatus the trio are back to discuss all the hot topics that matter to YOU; first jobs, the new AI gold game, supermarket bag packing, disappearing people, bad hairstyles and life as an exhibitionist.&lt;br&gt;&lt;br&gt;Will James be able to pull off the childhood heist of the decade? Was Jesus a time-traveller? Can the children of the modern age work out their differences? Could feminine hygiene product terminology be successfully applied to civil aviation? Will you listen to the podcast?</description>
+				<pubDate>Fri, 4 Jul 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/7.mp3</guid>
+
+				<itunes:title>Slap That Custard</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>7</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/7.jpg"/>
+				<itunes:duration>01:14:42</itunes:duration>
+			</item>
+
+			<item>
 				<title>It's A Numbers Thing</title>
 				<link>https://archive.org/details/1_20250213_20250213_1317</link>
 				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/6.mp3" length="160965654" type="audio/mpeg" />
