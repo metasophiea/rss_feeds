@@ -25,6 +25,22 @@
 			</itunes:owner>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/main.png"/>
+
+			<item>
+				<title>The Good, The Bad And The Chill</title>
+				<link>https://archive.org/details/1_20250213_20250213_1317</link>
+				<enclosure url="https://archive.org/download/1_20250213_20250213_1317/8.mp3" length="144519128" type="audio/mpeg" />
+				<description>In this their pre-christmas episode, we get to hear about the plans for a potential upcoming secret santa that the team are thinking about running. I wonder what they will give each other? Will it be a flaming Xbox? Perhaps a gaming problem for Lisa? Gambling machines? Perhaps Brandon will give in to his feelings for a book, or the possibilities of infinite sushi? One thing is for sure; James won't be giving any grapes.&lt;br&gt;&lt;br&gt;Sit back, relax, and take in the gentle conversation of three friends who just want to watch a man consume 28,000 tonnes of chicken wings live on stage.</description>
+				<pubDate>Fri, 28 Nov 2025 10:00:00 GMT</pubDate>
+				<guid>https://archive.org/download/1_20250213_20250213_1317/8.mp3</guid>
+
+				<itunes:title>The Good, The Bad, And The Chill</itunes:title>
+				<itunes:season>1</itunes:season>
+				<itunes:episode>8</itunes:episode>
+				<itunes:episodeType>full</itunes:episodeType>
+				<itunes:image href="https://archive.org/download/1_20250213_20250213_1317/8.jpg"/>
+				<itunes:duration>00:57:32</itunes:duration>
+			</item>
 			
 			<item>
 				<title>Slap That Custard</title>
